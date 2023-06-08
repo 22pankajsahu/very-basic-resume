@@ -1,12 +1,13 @@
 # very-basic-resume
-Git and GitHub Assignment Submission
 
-Batch: FS-02
+## Assignment:- Name change in resume
 
-Name: PANKAJ SAHU
+## Batch:- FS-02
 
-Mobile No.: 9340475779
+## Name:- PANKAJ SAHU
 
-Email: pankaj.sahu01@ssipmt.com,  22pankajsahu@gmail.com 
+## Mobile No.:- 9340475779
 
-# Hosted link :- https://22pankajsahu.github.io/very-basic-resume/
+## Email:- pankaj.sahu01@ssipmt.com,  22pankajsahu@gmail.com 
+
+## Hosted link:- https://22pankajsahu.github.io/very-basic-resume/
